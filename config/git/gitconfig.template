@@ -1,0 +1,14 @@
+[user]
+	name = ${GIT_USER_NAME}
+	email = ${GIT_USER_EMAIL}
+[core]
+	longpaths = true
+	autocrlf = true
+[init]
+	defaultBranch = main
+[pull]
+	rebase = false
+[fetch]
+	prune = true
+[color]
+	ui = auto

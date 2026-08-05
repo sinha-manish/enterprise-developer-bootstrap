@@ -1,0 +1,10 @@
+{
+  "Schema": "EDB.DeveloperProfile",
+  "Name": "Frontend",
+  "Description": "Frontend developer toolchain with editors, browsers, and Node tooling.",
+  "Packages": [
+    "git", "vscode", "cursor", "windowsterminal", "powershell", "node", "nvm",
+    "chrome", "firefox", "postman", "7zip", "notepadpp", "gh"
+  ],
+  "Settings": {}
+}

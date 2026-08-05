@@ -1,0 +1,56 @@
+# Runtime artifacts
+logs/**
+!logs/.gitkeep
+reports/**
+!reports/.gitkeep
+*.log
+
+# State and lock files
+**/*.state.json
+**/*.lock.json
+.state/
+
+# Secrets and local overrides
+.env
+.env.*
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+config/settings/local.yaml
+config/settings/local.json
+config/company/secrets.*
+
+# PowerShell / .NET
+*.dll
+*.pdb
+*.nupkg
+.psgallery/
+
+# IDE / OS
+.vs/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.swp
+*~
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Test / coverage
+coverage/
+TestResults/
+PesterResults.xml
+*.coverage
+
+# Temporary
+tmp/
+temp/
+*.tmp
+*.bak
+
+# Local toolchain (portable PowerShell, etc.)
+tools/
+.tools/

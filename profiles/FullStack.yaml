@@ -1,0 +1,28 @@
+Schema: EDB.DeveloperProfile
+Name: FullStack
+Description: Full-stack developer union of backend and frontend essentials plus data stores.
+Packages:
+  - git
+  - vscode
+  - cursor
+  - windowsterminal
+  - powershell
+  - node
+  - nvm
+  - python
+  - java
+  - dotnet
+  - postgres
+  - pgadmin
+  - docker
+  - postman
+  - 7zip
+  - notepadpp
+  - gh
+  - chrome
+  - firefox
+  - mongodb
+  - mongodbcompass
+  - redis
+  - dbeaver
+Settings: {}

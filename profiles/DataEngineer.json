@@ -1,0 +1,10 @@
+{
+  "Schema": "EDB.DeveloperProfile",
+  "Name": "DataEngineer",
+  "Description": "Data engineer toolchain with databases, ETL-friendly runtimes, and SQL clients.",
+  "Packages": [
+    "git", "vscode", "python", "postgres", "pgadmin", "mongodb", "mongodbcompass",
+    "redis", "dbeaver", "java", "7zip", "chrome", "gh"
+  ],
+  "Settings": {}
+}

@@ -1,0 +1,10 @@
+{
+  "Schema": "EDB.DeveloperProfile",
+  "Name": "Backend",
+  "Description": "Backend developer toolchain with runtimes, databases, and core tooling.",
+  "Packages": [
+    "git", "vscode", "windowsterminal", "powershell", "node", "python", "java", "dotnet",
+    "postgres", "pgadmin", "docker", "postman", "7zip", "notepadpp", "gh", "chrome"
+  ],
+  "Settings": {}
+}

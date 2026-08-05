@@ -1,0 +1,18 @@
+Schema: EDB.DeveloperProfile
+Name: QAEngineer
+Description: QA engineer toolchain with browsers, API testing, and database inspection tools.
+Packages:
+  - git
+  - vscode
+  - node
+  - python
+  - postman
+  - chrome
+  - firefox
+  - docker
+  - dbeaver
+  - 7zip
+  - notepadpp
+  - gh
+  - windowsterminal
+Settings: {}

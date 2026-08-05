@@ -1,0 +1,19 @@
+Schema: EDB.DeveloperProfile
+Name: AIEngineer
+Description: AI engineer toolchain with assistants, Python/Node runtimes, and Copilot extensions.
+Packages:
+  - git
+  - vscode
+  - cursor
+  - python
+  - node
+  - docker
+  - githubcopilot
+  - chatgptdesktop
+  - claudedesktop
+  - openai-cli
+  - gh
+  - chrome
+  - windowsterminal
+  - powershell
+Settings: {}

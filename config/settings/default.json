@@ -1,0 +1,16 @@
+{
+  "Schema": "EDB.Settings",
+  "LogLevel": "Information",
+  "WriteToConsole": true,
+  "Parallel": false,
+  "ParallelInstalls": 2,
+  "DefaultProvider": "Winget",
+  "RetryCount": 3,
+  "RequirePreflight": true,
+  "RequireInternet": true,
+  "GenerateReports": true,
+  "ReportFormats": ["Json", "Html"],
+  "Install": {
+    "DefaultScope": "user"
+  }
+}

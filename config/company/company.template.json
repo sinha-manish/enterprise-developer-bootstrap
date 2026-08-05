@@ -1,0 +1,9 @@
+{
+  "CompanyName": "Enterprise",
+  "SupportEmail": "platform-engineering@example.com",
+  "DocumentationUrl": "https://docs.example.com/developer-bootstrap",
+  "Branding": {
+    "PrimaryColor": "#0078D4",
+    "LogoPath": ""
+  }
+}

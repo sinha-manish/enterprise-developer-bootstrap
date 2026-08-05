@@ -1,0 +1,11 @@
+{
+  "Schema": "EDB.DeveloperProfile",
+  "Name": "DevOps",
+  "Description": "DevOps engineer toolchain with containers, cloud CLIs, and Kubernetes utilities.",
+  "Packages": [
+    "git", "vscode", "windowsterminal", "powershell", "docker", "wsl", "ubuntu",
+    "terraform", "kubectl", "helm", "awscli", "azurecli", "gcloudsdk", "gh",
+    "7zip", "chrome", "node", "python"
+  ],
+  "Settings": {}
+}
